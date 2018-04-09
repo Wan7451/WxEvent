@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <button bindtap='sencod'>跳转第二页</button>
+
+    <view>
+    <text>{{text}}</text>
+    </view>
+  </view>
+</view>
